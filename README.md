@@ -7,7 +7,7 @@
 *Aligned with IEEE 830-1998 and ISO/IEC/IEEE 29148:2018 Standards*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Author](https://img.shields.io/badge/Author-Athulya%20Peshali-darkgreen)](#-author--contact)
+[![Author](https://img.shields.io/badge/Author-Athulya%20Peshali-darkgreen)](#author--contact)
 [![Format](https://img.shields.io/badge/Format-Markdown%20%7C%20PDF-orange)](#-template-index)
 
 ---
