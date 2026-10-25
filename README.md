@@ -1,34 +1,43 @@
-# Software Analysis & Project Management Templates 🛠️
+<div align="center">
 
-A standardized repository of business analysis, project management, and data/systems specification frameworks. Designed for software engineers, business analysts, and project managers to streamline requirements engineering, system design, and agile project delivery.
+# 📦 Software Analysis & Project Management Templates
 
----
+**A production-ready collection of Business Analysis, Project Management, and Systems Analysis templates in Markdown and PDF.**
 
-## 📁 Repository Structure & Available Templates
+*Aligned with IEEE 830-1998 and ISO/IEC/IEEE 29148:2018 Standards*
 
-### 📂 01. Business Analysis (`/01_Business_Analysis`)
-* **`SRS_Template.md`** — IEEE 830 compliant Software Requirements Specification outline detailing functional and non-functional requirements.
-* **`RTM_Template.md`** — Requirements Traceability Matrix linking business goals, SRS requirements, architecture design, and test cases.
-* **`Use_Case_Specification.md`** — Structured scenario template detailing preconditions, primary flows, alternate flows, and postconditions.
-* **`RACI_Matrix.md`** — Stakeholder analysis framework mapping Responsible, Accountable, Consulted, and Informed roles.
-
-### 📂 02. Project Management (`/02_Project_Management`)
-* **Project Governance Templates** — Project Charters, Risk Registers, Scope Change Request Forms, and Agile Sprint Retrospectives.
-
-### 📂 03. Data & Systems Analysis (`/03_Data_&_Systems_Analysis`)
-* **Technical Specifications** — Data Dictionaries, API Contracts, and Schema Specifications for backend and database modeling.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Author](https://img.shields.io/badge/Author-Athulya%20Peshali-darkgreen)](#author--contact)
+[![Format](https://img.shields.io/badge/Format-Markdown%20%7C%20PDF-orange)](#-template-index)
 
 ---
 
-## 🚀 How to Use These Templates
+</div>
 
-1. **Clone or Fork:** Clone this repository to use these files as starting baselines for academic or professional projects.
-2. **Copy Markdown:** Copy the raw Markdown text directly into your project's `docs/` directory or team wiki (Confluence/GitHub Wiki).
-3. **Customize:** Replace placeholder values enclosed in brackets `[like this]` with project-specific details.
+## 📌 Overview
+
+This repository provides standardized, battle-tested documentation templates designed for **Business Analysts**, **Systems Analysts**, and **Project Managers**. Whether you are drafting initial software requirements, tracking risk registers, or specifying API interfaces, these templates offer a clean, structured starting point tailored for modern software engineering workflows.
 
 ---
 
-## 👨‍💻 Author
+## 📂 Repository Structure
 
-* **Athulya Peshali Herath**
-* Undergraduate Student — BSc (Hons) Software Engineering | Junior Business Analyst
+```text
+software-analysis-templates
+ ┣ 📂 01_Business_Analysis
+ ┃ ┣ 📜 SRS_Template.md
+ ┃ ┣ 📜 SRS_Template.pdf
+ ┃ ┣ 📜 RTM_Template.md
+ ┃ ┣ 📜 User_Story_Specification.md
+ ┃ ┣ 📜 Use_Case_Specification.md
+ ┃ ┗ 📜 RACI_Matrix.md
+ ┣ 📂 02_Project_Management
+ ┃ ┣ 📜 Project_Charter.md
+ ┃ ┣ 📜 Risk_Register.md
+ ┃ ┣ 📜 RAG_Status_Report.md
+ ┃ ┗ 📜 Change_Request_Form.md
+ ┣ 📂 03_Data_&_Systems_Analysis
+ ┃ ┣ 📜 Data_Dictionary_Template.md
+ ┃ ┣ 📜 API_Specification_Template.md
+ ┃ ┗ 📜 Data_Mapping_Sheet.md
+ ┗ 📜 README.md
