@@ -25,6 +25,7 @@ This repository provides standardized, battle-tested documentation templates des
 ```text
 software-analysis-templates
  ┣ 📂 01_Business_Analysis
+ ┃ ┣ 📜 Business_Case.md
  ┃ ┣ 📜 SRS_Template.md
  ┃ ┣ 📜 SRS_Template.pdf
  ┃ ┣ 📜 RTM_Template.md
